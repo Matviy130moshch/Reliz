@@ -340,3 +340,10 @@ footer{
   font-size: 30px;
   color: rgb(225, 105, 255);
 }
+button a{
+  color:white;
+  text-decoration: none;
+}
+.a {
+  color:rgb(7, 51, 95);
+}
